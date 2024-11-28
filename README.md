@@ -1,4 +1,4 @@
-Projeto de cartão de perfil
+Projeto de cartão de perfil, feito com HTML e CSS.
 
 Desktop:
 
